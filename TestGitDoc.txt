@@ -7,9 +7,6 @@ Testing TortoiseGit 6
 Testing TortoiseGit 7
 Testing TortoiseGit 8
 Testing TortoiseGit 9
-<<<<<<< HEAD
 Testing TortoiseGit 11
-
-=======
 Testing TortoiseGit 10 Fetch
->>>>>>> 3f99a803bca898d9f582b6348c963849ab8e2864
+
