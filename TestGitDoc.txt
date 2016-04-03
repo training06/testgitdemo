@@ -7,3 +7,5 @@ Testing TortoiseGit 6
 Testing TortoiseGit 7
 Testing TortoiseGit 8
 Testing TortoiseGit 9
+Testing TortoiseGit 11
+
