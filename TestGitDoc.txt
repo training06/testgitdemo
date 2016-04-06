@@ -11,3 +11,4 @@ Testing TortoiseGit 11
 Testing TortoiseGit 10 Fetch
 Testing TortoiseGit 12 after cloning
 Testing development branch
+Testing branch changes 
