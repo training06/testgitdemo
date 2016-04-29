@@ -1,0 +1,12 @@
+Testing TortoiseGit 1
+Testing TortoiseGit 2
+Testing TortoiseGit 3
+Testing TortoiseGit 4
+Testing TortoiseGit 5
+Testing TortoiseGit 6
+Testing TortoiseGit 7
+Testing TortoiseGit 8
+Testing TortoiseGit 9
+Testing TortoiseGit 11
+Testing TortoiseGit 10 Fetch
+Testing TortoiseGit 12 after cloning
